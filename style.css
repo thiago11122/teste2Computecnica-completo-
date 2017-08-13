@@ -1,0 +1,224 @@
+/*
+Theme name: Tema 4 Rodas1
+Theme URI:
+Author: Thiago Staibano Alves
+Author URI: https://github.com/thiago11122
+Description: Tema para teste Computénica
+Version: 1.0
+Tag: TesteComputétnica, Estoque, Produtos
+*/
+
+#principal{
+    
+    background-image: url('imagem.png');
+    background-repeat: no-repeat;
+    overflow: auto;
+    height:1100px;
+    width: 3000px;
+    
+}
+#carros{
+    
+    margin-left: 391px;
+    margin-top: 139px;
+    position: absolute;
+}
+
+#teste{
+     margin-left: 482px;
+     margin-top: 141px;
+     position: absolute;
+}
+
+#noticias{
+     margin-left: 563px;
+     margin-top: 140px;
+     position: absolute;
+    
+}
+
+#auto-serviço{
+     margin-left: 656px;
+     margin-top: 140px;
+     position: absolute;
+
+    
+}
+
+#tabela{
+     margin-left: 930px;
+     margin-top: 140px;
+     position: absolute;
+    
+}
+
+#carroMenu1{
+    margin-left: 390px;
+    margin-top: 160px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 47pt;
+    color:white;
+}
+
+#carroMenu2{
+    margin-left: 390px;
+    margin-top: 180px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 47pt;
+    color:white;
+}
+
+#carroMenu3{
+    margin-left: 390px;
+    margin-top: 200px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 47pt;
+    color:white;
+    
+}
+
+#testeMenu1{
+    margin-left: 480px;
+    margin-top: 160px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 45pt;
+    color:white;
+}
+
+#testeMenu2{
+    margin-left: 480px;
+    margin-top: 180px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 45pt;
+    color:white;
+}
+
+#testeMenu3{
+    margin-left: 480px;
+    margin-top: 200px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 45pt;
+    color:white;
+    
+}
+
+#noticiaMenu1{
+    margin-left: 561px;
+    margin-top: 160px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 55pt;
+    color:white;
+}
+
+#noticiaMenu2{
+    margin-left: 561px;
+    margin-top: 180px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 55pt;
+    color:white;
+}
+
+#noticiaMenu3{
+    margin-left: 561px;
+    margin-top: 200px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 55pt;
+    color:white;
+    
+}
+
+#servicoMenu1{
+    margin-left: 654px;
+    margin-top: 160px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 80pt;
+    color:white;
+}
+
+#servicoMenu2{
+    margin-left: 654px;
+    margin-top: 180px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 80pt;
+    color:white;
+}
+
+#servicoMenu3{
+    margin-left: 654px;
+    margin-top: 200px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 80pt;
+    color:white;
+    
+}
+
+#tabelaMenu1{
+    margin-left: 929px;
+    margin-top: 160px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 65pt;
+    color:white;
+}
+
+#tabelaMenu2{
+    margin-left: 929px;
+    margin-top: 180px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 65pt;
+    color:white;
+}
+
+#tabelaMenu3{
+    margin-left: 929px;
+    margin-top: 200px;
+    position: absolute;
+    border-style: inset;
+    background-color:red;
+    border-color:black;
+    width: 65pt;
+    color:white;
+    
+}
+
